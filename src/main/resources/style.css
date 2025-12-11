@@ -1,0 +1,8 @@
+
+.root {
+    -fx-font-family: "Arial";
+}
+
+.button {
+    -fx-font-weight: bold;
+}
