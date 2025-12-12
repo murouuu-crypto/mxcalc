@@ -15,7 +15,6 @@ public class Main {
     private static JTextField filePathBField;
 
     public static void main(String[] args) {
-        // Запуск GUI в потоке обработки событий Swing
         SwingUtilities.invokeLater(Main::createAndShowGUI);
     }
 
