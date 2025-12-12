@@ -12,7 +12,6 @@ repositories {
 }
 
 dependencies {
-    // Swing входит в JDK, дополнительные зависимости не нужны
 }
 
 mainClassName = 'matrixcalculator.Main'
